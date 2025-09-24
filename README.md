@@ -1,2 +1,2 @@
-# Testimonials-gri--section
+# Testimonials-grid-section
  frontend mentor challenge
